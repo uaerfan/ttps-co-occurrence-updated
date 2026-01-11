@@ -1,4 +1,9 @@
-I am using Python 3.12.12 version in Google Colab.
+Option 1: Using Docker (Recommended)
+1. Build the image: docker build -t ttp-analysis .
+2. Run the analysis: docker run ttp-analysis
+
+Option 2:
+Python 3.12.12 version in Google Colab.(Recommended)
 
 Steps to reproduce the results:
 Step 01: Download the Git repository by running: git clone https://github.com/uaerfan/ttps-co-occurrence-updated.git
