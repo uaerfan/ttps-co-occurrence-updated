@@ -1,0 +1,10 @@
+pandas
+networkx
+scipy
+mlxtend
+matplotlib
+seaborn
+tabulate
+igraph
+pymining
+prefixspan
